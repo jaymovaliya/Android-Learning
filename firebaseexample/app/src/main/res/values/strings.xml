@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firebase example</string>
+    <string name="FCM_PREF">com.example.acer.firebaseexample.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.acer.firebaseexample.fcm_token</string>
+</resources>

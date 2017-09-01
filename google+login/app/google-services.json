@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772373647740",
+    "project_id": "default-demo-app-c9074"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772373647740:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.example.acer.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772373647740-bcjfarth7rb7m94evimip66nddm2qfc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "46498f15309db9fa88c0198c990c57b6d1008f85"
+          }
+        },
+        {
+          "client_id": "772373647740-chf0f79inajv2fmo6e0b8sbsk46voq6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMr8B3uy1idFNeaoeSVcF9_oOs-j1gdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
